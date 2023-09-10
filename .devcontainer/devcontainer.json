@@ -1,0 +1,26 @@
+{
+	"name": "c_cpp_learning",
+	"image": "c_cpp_learning:latest",
+	"workspaceFolder": "/workspaces",
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"visualstudioexptteam.vscodeintellicode",
+				"ms-vscode.cpptools",
+				"xaver.clang-format",
+				"donjayamanne.git-extension-pack",
+				"yzhang.markdown-all-in-one",
+				"ms-python.python",
+				"coenraads.bracket-pair-colorizer-2",
+				"twxs.cmake",
+				"vscode.cmake-tools",
+				"oderwat.indent-rainbow",
+				"shardulm94.trailing-spaces",
+				"vscodevim.vim",
+				"streetsidesoftware.code-spell-checker",
+				"vscode-icons-team.vscode-icons"
+			]
+		}
+	}
+}
