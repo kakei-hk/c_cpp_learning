@@ -2,7 +2,7 @@
 
 docker_image_name="c_cpp_learning"
 docker_container_name="c_cpp_learning"
-workdir="/workspaces"
+workdir="/workspace"
 
 docker run --rm \
     --name ${docker_container_name} \

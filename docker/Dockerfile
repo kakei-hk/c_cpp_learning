@@ -5,7 +5,7 @@ ARG GROUPNAME="developer"
 ARG UID=1000
 ARG GID=1000
 ARG PASSWORD="developer"
-ARG WORKDIR="/workspaces"
+ARG WORKDIR="/workspace"
 
 
 # Basic packages
