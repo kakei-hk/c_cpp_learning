@@ -11,5 +11,5 @@ int main()
     print_sample();
 
     add_res = add_sample(val_a, val_b);
-    std::cout << val_a << " + " << val_b << " = " << add_res << std::endl; 
+    std::cout << val_a << " + " << val_b << " = " << add_res << std::endl;
 }

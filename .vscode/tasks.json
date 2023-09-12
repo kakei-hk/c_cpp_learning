@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "sample build (debug)",
+            "command": "bash",
+            "args": [
+                "build.sh",
+                "sample",
+                "debug"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "build sample program using shellscript"
+        }
+    ]
+}
