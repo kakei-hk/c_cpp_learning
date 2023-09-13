@@ -3,4 +3,4 @@
 
 int add_sample(int val_a, int val_b);
 
-#endif //ADD_SAMPLE_HPP
+#endif  // ADD_SAMPLE_HPP

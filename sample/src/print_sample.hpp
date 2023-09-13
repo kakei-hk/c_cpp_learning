@@ -3,4 +3,4 @@
 
 void print_sample();
 
-#endif //PRINT_SAMPLE_HPP
+#endif  // PRINT_SAMPLE_HPP
